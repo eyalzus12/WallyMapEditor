@@ -1,15 +1,15 @@
 [submodule "WallyMapSpinzor2"]
 	path = WallyMapSpinzor2
-	url = https://github.com/eyalzus12/WallyMapSpinzor2.git
+	url = https://github.com/allhailcheese/WallyMapSpinzor2.git
 [submodule "SwiffCheese"]
 	path = SwiffCheese
-	url = https://github.com/eyalzus12/SwiffCheese.git
+	url = https://github.com/allhailcheese/SwiffCheese.git
 [submodule "BrawlhallaSwz"]
 	path = BrawlhallaSwz
-	url = https://github.com/eyalzus12/BrawlhallaSwz
+	url = https://github.com/allhailcheese/BrawlhallaSwz
 [submodule "AbcDisassembler"]
 	path = AbcDisassembler
 	url = https://github.com/moffel1020/AbcDisassembler
 [submodule "WallyAnmSpinzor"]
 	path = WallyAnmSpinzor
-	url = https://github.com/eyalzus12/WallyAnmSpinzor.git
+	url = https://github.com/allhailcheese/WallyAnmSpinzor.git
